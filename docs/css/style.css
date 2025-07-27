@@ -1,0 +1,3 @@
+/* Custom overrides */
+.container { max-width: 1024px; margin: 0 auto; padding: 0 1rem; }
+a { transition: color 0.2s ease; }
