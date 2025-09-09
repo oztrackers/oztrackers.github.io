@@ -1,0 +1,13 @@
+/* style.css - basic page styles */
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background: #f8fafc; color: #111827; margin: 0; }
+.container { max-width: 960px; margin: 0 auto; padding: 1rem; }
+header img.hero { width: 100%; height: 320px; object-fit: cover; border-radius: 8px; }
+h1 { font-size: 2rem; margin: 0.75rem 0; }
+h2 { font-size: 1.25rem; margin: 0.75rem 0; }
+p, li { line-height: 1.6; }
+a { color: #1d4ed8; text-decoration: none; }
+nav.bg-blue-600 { background: #2563eb; }
+nav .container a { color: #fff; font-weight: 700; }
+footer.bg-gray-800 { background: #1f2937; color: #d1d5db; padding: 1.25rem 0; margin-top: 2rem; text-align: center; }
+.content { background: #ffffff; padding: 1.25rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+.article-meta { color: #6b7280; font-size: 0.9rem; margin-bottom: 0.5rem; }
